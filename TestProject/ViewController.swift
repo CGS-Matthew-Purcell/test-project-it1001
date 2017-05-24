@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("Master branch update")
         print("Feature-x")
         print("Feature-y")
+        print("Bug fixed")
         
     }
 
